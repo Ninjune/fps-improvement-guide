@@ -1,4 +1,5 @@
 # Ninjune's FPS Improvement Guide
+I made this because I often get asked in stream how to improve, but it's hard for me to give an answer to everyone that asks.
 
 ## Who am I
 [Streamer](https://www.twitch.tv/ninjune1), Voltaic Grandmaster, t500 dps in marvel rivals, masters in ow before rivals. I started silver in overwatch 2 (in 2024) and gold in voltaic (in 2025).
